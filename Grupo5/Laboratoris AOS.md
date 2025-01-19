@@ -2,6 +2,7 @@ LABORATORI AOS 8/11/
 - ENTRAR A LAUNCH TEMPLATE
 
     Nombre: grupoA_template
+    Integrantes del grupo: Antonio, Artem, Paula, Josep.
     Descripcion sgtemplate
     Template tags con name y grupoA
     Imagen ubuntu
